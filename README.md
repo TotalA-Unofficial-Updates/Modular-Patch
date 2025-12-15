@@ -9,7 +9,7 @@ Source code and build files are provided for quality assurance purposes.
 # DDRAW [ Rendering ]
 
 Replaces the underlying legacy DDRAW system with a version that is compatible with Total Annihilation.\
-It uses the Window API to draw to the screen instead of relying on legacy and progressively unsupported drawing methods.
+It uses the Windows API to draw to the screen instead of relying on legacy and progressively unsupported drawing methods.
 
 # DPLAYX [ Network ]
 
